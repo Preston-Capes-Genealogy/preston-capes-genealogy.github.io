@@ -10,7 +10,7 @@ title: Preston Capes Genealogy
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This website is offered to give genealogical information about residents from 
-  Preston Capes, Northamptonshire, England. 
+  the village of Preston Capes, Northamptonshire, England. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prestoncapes-genealogy.org" # the base hostname & protocol for your site
 twitter_username: jlconlin
